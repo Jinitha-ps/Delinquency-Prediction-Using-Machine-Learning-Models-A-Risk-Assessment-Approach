@@ -60,15 +60,13 @@ Account Tenure: Customers in the '0-1 yr' and '1-2 yr' tenure groups showed the 
 📈 **Model Performance Summary**
 The models were evaluated using standard classification metrics on a test set:
 
-Model	Accuracy	Precision	Recall	F1 Score	AUC-ROC
-Random Forest	0.85	0.00	0.00	0.00	
-0.46 
+Model	                    Accuracy	   Precision	Recall	F1 Score	AUC-ROC
 
-Logistic Regression	0.86	0.00	0.00	0.00		
-0.54 
+Random Forest	              0.85	       0.00    	0.00    	0.00	    0.46 
 
-Neural Network (MLP)	0.86	0.00	0.00	0.00	
-0.46
+Logistic Regression       	0.86	       0.00	    0.00	    0.00		  0.54 
+
+Neural Network (MLP)      	0.86	       0.00	    0.00	    0.00	    0.46
 
 
 
