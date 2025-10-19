@@ -23,7 +23,11 @@ Machine Learning Models Evaluated
 We compared the performance of three distinct models for this binary classification task:
 
 1)**Random Forest Classifier** 
-2)**Logistic Regression** 
+
+
+2)**Logistic Regression**
+
+
 3)**Multilayer Perceptron (MLP) / Neural Network** 
 
 
